@@ -29,7 +29,7 @@ Passionate about **Embedded Systems**, **Digital Hardware**, and **PCB Design**.
 * Developing an automated farm monitoring and irrigation system based on soil moisture and ambient temperature.
 * Implemented RTC scheduling, OLED status monitoring, and Wi-Fi remote notifications.
 
-#### 🔨 [Digital Auction System]
+#### 🔨 [Digital Auction System](https://github.com/goravit-p/nexys-a7-auction-system.git)
 > **Tech Stack:** `Nexys A7 FPGA` `VHDL` `Vivado`
 * Built an FPGA-based auction system using seven-segment displays and push buttons.
 * Applied Finite State Machines (FSM) and priority logic to control auction bidding and determine winners.
